@@ -1,0 +1,25 @@
+{
+  "name": "naija-relationshipjs",
+  "version": "1.0.0",
+  "description": "A simple library for handling relationships",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "demo": "ts-node demo.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "relationship",
+    "npm",
+    "library"
+  ],
+  "author": "Rotimi Best",
+  "license": "MIT",
+  "dependencies": {
+    "ts-node": "^10.9.1"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.2"
+  }
+}
