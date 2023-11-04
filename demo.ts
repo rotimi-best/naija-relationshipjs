@@ -1,4 +1,4 @@
-import { Person, Relationship, Breakup } from './src';
+import { Person, Relationship, Breakup } from '.';
 
 const amaka = new Person('Amaka');
 const segun = new Person('Segun');
